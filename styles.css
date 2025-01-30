@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.77">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">#hero {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: 'Lato', sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.1)),</p>
+<p class="p1"><span class="Apple-converted-space">    </span>url('https://images.pexels.com/photos/30429118/pexels-photo-30429118/free-photo-of-modern-fashion-portrait-in-rabat-construction-site.jpeg');</p>
+<p class="p1"><span class="Apple-converted-space">   </span>height: 600px;</p>
+<p class="p1"><span class="Apple-converted-space">   </span>background-size: cover;</p>
+<p class="p1"><span class="Apple-converted-space">   </span>color: #fff;</p>
+<p class="p1">}<span class="Apple-converted-space"> </span></p>
+<p class="p2"><br></p>
+<p class="p1">#hero h1 {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">nav {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>justify-content: space-between;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>align-item: center;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">nav ul {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>list-style-type: none;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">nav ul li {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0 1rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-weight: 700;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.content {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 4rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin-top: 100px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font- weight: 800;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-transform: uppercase;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.content button {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: #dbce74;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-colour: #dbce74;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>border: none;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: .5rem 2rem;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>cursor: pointer;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>transition: all .3s ease;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.content buton:hover {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #08347a;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.container {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>max-width: 600px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0 auto;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+</body>
+</html>
